@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of two great victories obtained of the enemy: the one by Sr. William Brereton in Cheshire, the other by Sir Iohn Meldrum in Lancashire; relating the death of Col. Marrow, and the lists of prisoners taken in both the fights: and of about 1800. horse of Ruperts; as also some remarkable proceedings of Col. Fox, and his cubs; with the late condition of the Lord Generals army in the West. All sent up from good hands to the Parliament, and to citizens of good quallitie. Published according to order.</title>
+            <author>Brereton, William, Sir, 1604-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95292</idno>
+            <idno type="STC">Wing T3074</idno>
+            <idno type="STC">Thomason E7_25</idno>
+            <idno type="STC">ESTC R18029</idno>
+            <idno type="EEBO-CITATION">99860326</idno>
+            <idno type="PROQUEST">99860326</idno>
+            <idno type="VID">112446</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112446)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E7[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of two great victories obtained of the enemy: the one by Sr. William Brereton in Cheshire, the other by Sir Iohn Meldrum in Lancashire; relating the death of Col. Marrow, and the lists of prisoners taken in both the fights: and of about 1800. horse of Ruperts; as also some remarkable proceedings of Col. Fox, and his cubs; with the late condition of the Lord Generals army in the West. All sent up from good hands to the Parliament, and to citizens of good quallitie. Published according to order.</title>
+                  <author>Brereton, William, Sir, 1604-1661.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Underhill at the sign of the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "August 30th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marrow, John, d. 1644.</term>
+               <term>Meldrum, John, --  Sir, d. 1645.</term>
+               <term>Brereton, William, --  Sir, 1604-1661.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Emma (Leeson) Huber</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112446:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION Of two great VICTORIES OBTAINED of the Enemy: The one by S<hi rend="sup">r</hi>. <hi>William Brereton</hi> in <hi>CHESHIRE,</hi> The other by Sir <hi>Iohn Meldrum</hi> in <hi>Lancaſhire;</hi> rela<g ref="char:EOLhyphen"/>ting the death of Col. <hi>Marrow,</hi> and the Liſts of priſo<g ref="char:EOLhyphen"/>ners taken in both the Fights: and of about 1800. Horſe of <hi>Ruperts;</hi> As alſo ſome remarkable Proceedings of Col. <hi>Fox,</hi> and his Cubs; with the late condition of the LORD GENERALS Army in the Weſt. All ſent up from good hands to the Parliament, and to Citizens of good quallitie.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Publiſhed acccording to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Underhill</hi> at the ſign of the Bible in <hi>Woodſtreet,</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112446:2"/>
+            <pb n="3" facs="tcp:112446:2"/>
+            <head>A TRUE RELATION of two great Victories obtained of the Enemy; the one by<g ref="char:punc">▪</g> Sir <hi>William Brereton</hi> in <hi>Cheſhire,</hi> the other by the LANCA-SHIRE Forces, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my laſt I gave you an account of the Skirmiſh in <hi>Lanca-ſhire,</hi> where the Lord <hi>Ogleby,</hi> Collonell <hi>Myn,</hi> and divers other perſons of qualitie, <hi>Scotts</hi> Commanders and Gentlemen were taken priſoners. Since which, upon Sabathday laſt, ſome of our Forces from <hi>Northwich</hi> skirmiſhed with Collonell <hi>Marrow</hi> neare <hi>Crowton</hi>-houſe, wherein wee had a garri<g ref="char:EOLhyphen"/>ſon kept, where wee loſt foureteene men, which were ta<g ref="char:EOLhyphen"/>ken priſoners. But the enemies loſſe was farre greater, for Collonell <hi>Marrow,</hi> a ſecond <hi>Nymrod,</hi> received his mor<g ref="char:EOLhyphen"/>tall wound, upon which he is ſince dead in <hi>Cheſter.</hi> Both he and his Regiment of horſe die at one time. And it is re<g ref="char:EOLhyphen"/>ported by ſome, that the bloudy Prince <hi>Rupert</hi> is going towards the King.</p>
+            <p>I ſhall now acquaint you with Gods continued good<g ref="char:EOLhyphen"/>nes unto us, Upon wedneſday the 21. of <hi>Aug.</hi> Sir <hi>William Brereton</hi> that active, and faithful patriot of his Countrey, ſent forth a partie of horſe and foote from <hi>Northwych</hi> in
+<pb n="4" facs="tcp:112446:3"/>
+               <hi>Cheſhire,</hi> who marched from thence to <hi>Froodſham,</hi> hoping to have found the enemie there. From thence they marched over the Forreſt of <hi>Dalamore</hi> to <hi>Aſhton,</hi> (where we heard they quartered) to have met with them there, but having intelligence that they were at <hi>Tarvine,</hi> within foure miles of <hi>Cheſter,</hi> marched towards them, and meeting ſome of their Scouts, purſued them into <hi>Tarvine,</hi> and there fell upon the enemie and ſoone routed them.</p>
+            <p>Some fled into the Church, others out of the Town to<g ref="char:EOLhyphen"/>wards Cheſter, but were purſued gallantly by that valiant Captain <hi>Zanchy,</hi> who commands Sir <hi>William Breretons</hi> own Troop, within piſtoll ſhot of the walls of Cheſter. A Gentleman of Sir <hi>William Breretons</hi> Troop, named Mr. <hi>Dury,</hi> killed one of the enemy cloſe at the workes of <hi>Che<g ref="char:EOLhyphen"/>ſter.</hi> And that while they were in purſute of the enemie towards Cheſter, the reſt were not idle in Tarvin: For that worthy valiant Lieutenant Colonell <hi>Jones,</hi> who commanded the Horſe, behaved himſelfe gallantly: and ſo did that valiant Major <hi>Trevas,</hi> who commanded the Foot. The enemy fiered very faſt out of the Church, they tooke ſome horſes into the Church, the ſervice being ve<g ref="char:EOLhyphen"/>ry hot, there was one brave horſe they could not get in, but one of the enemy held him in his hand under the Church-wall: A Corporall of Sir <hi>William Breretons</hi> Troop, named <hi>John Cooper,</hi> ſeeing the horſe, ventured to fetcht him, but they fiered ſo faſt out of the Church, that he retreated twice, but the third time ventured up, piſtoled the enemy, and brought away the horſe; which horſe was valued worth fourſcore pounds. There was taken at the ſame time between fourtie and fiftie priſo<g ref="char:EOLhyphen"/>ners, and about three hundred horſe, ſome very gallant ones, and when they had done, marched away with their
+<pb n="5" facs="tcp:112446:3"/>
+priſoners and horſes, and loſt but two men. Had not the enemy at Cheſter had ſuch an alarm, and made ſuch haſte towards us, we ſhould have taken the Church.</p>
+            <list>
+               <head>Priſoners taken at <hi>Tarvin,</hi> 
+                  <date>the <hi>21.</hi> of Auguſt, <hi>1644.</hi>
+                  </date> as followeth.</head>
+               <item>
+                  <hi>Captain</hi> Ed. Gibſon.</item>
+               <item>Cornet <hi>Clemence.</hi> Gent.</item>
+               <item>Anthony Shewer.</item>
+               <item>
+                  <hi>Mr.</hi> Sam. Saltonſtall.</item>
+               <item>Henry Rowbothem.</item>
+               <item>Edward Low.</item>
+               <item>John Penkit.</item>
+               <item>Edward Boden.</item>
+               <item>Godfrey Boden.</item>
+               <item>John Shelton.</item>
+               <item>Humfrey Millington.</item>
+               <item>George Sykes.</item>
+               <item>William Burdingham.</item>
+               <item>Edward Botham.</item>
+               <item>
+                  <hi>James Swinthel</hi> of Colonel <hi>Chal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>roſſe</hi> Regiment.</item>
+               <item>Thomas Benſon.</item>
+               <item>William Reynolds.</item>
+               <item>Peter Wright.</item>
+               <item>William Bennit.</item>
+               <item>Jeremy Adderton.</item>
+               <item>Thomas Philips.</item>
+               <item>
+                  <hi>Sam: Bould,</hi> a Boy.</item>
+               <item>
+                  <hi>Robert Morris,</hi> of Captain <hi>Swinningtons</hi> men.</item>
+               <item>Rich. Shaw.</item>
+               <item>Tho: Roberts.</item>
+               <item>Edward Ogden.</item>
+               <item>
+                  <hi>Rich. Roberts,</hi> Lieutenant Colonel <hi>Groſvens</hi> men.</item>
+               <item>Micha. Parney.</item>
+               <item>John Wells.</item>
+               <item>Thomas Thornley.</item>
+               <item>William Barlow.</item>
+               <item>Ralph Bradſhaw</item>
+               <item>William Morris.</item>
+               <item>
+                  <hi>Thomas Cooper,</hi> a little Boy under Lieutenant Co<g ref="char:EOLhyphen"/>lonel <hi>Leigh.</hi>
+               </item>
+               <item>John Burks.</item>
+               <item>William Linniker.</item>
+               <item>Robert Davenport.</item>
+               <item>Thomas Walker, <hi>of Captain</hi> Philips Troop.</item>
+               <item>Robert Hughes <hi>of Captaine</hi> Woodhas troop.</item>
+               <item>John Read, <hi>under Captaine</hi> Prichard.</item>
+               <item>
+                  <hi>Richard Bloore,</hi> of no Com<g ref="char:EOLhyphen"/>pany.</item>
+            </list>
+            <p>
+               <pb n="6" facs="tcp:112446:4"/>
+And it is to be obſerved, that the very ſame day, and at the very ſame preſent time, that the <hi>Cheſhire</hi> Forces were engaged at <hi>Tarvin,</hi> that the <hi>Lancaſhire</hi> Forces had a great Victorie over the enemie.</p>
+            <div type="letter">
+               <head>An extract of a Letter from <hi>Lancaſhire</hi> of credit.</head>
+               <p>OUr Major Generall <hi>Meldrum</hi> having notice of the ene<g ref="char:EOLhyphen"/>my marched towards <hi>Ormskirk</hi> made haſt after them, overtook them on <hi>Tueſday</hi> in the evening, on a moor neer <hi>Ormskirk,</hi> where they ſtood in batalia, and upon the firſt charge of our Musket, that were under the command of Col. <hi>Booth,</hi> they fled, whereupon our Horſe bravely fell upon them, and totally routed them. In the purſuit they took about eight hundred horſe; ſome letters report a thouſand, and three hundred priſoners. By reaſon of the night we could not improve the victory as otherwiſe wee might have done.</p>
+               <p>The Lord <hi>Byron,</hi> and the Lord <hi>Molleneaux</hi> were forced to leave their horſes and to hide themſelves in a cornfield.</p>
+               <closer>
+                  <signed>Yours, &amp;c.</signed> 
+                  <dateline>Mancheſter, <date>Auguſt. 24. 1644.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="list_of_prisoners">
+               <head>A Liſt of the names of ſuch perſons of quallity as were taken neer <hi>Ormskirk</hi> on <date>
+                     <hi>Tueſday,</hi> Aug. 20. 1644.</date>
+               </head>
+               <p>
+                  <list>
+                     <item>Colonel S<hi rend="sup">r</hi>. <hi>James Preſtwich,</hi>
+                     </item>
+                     <item>
+                        <hi>Captain</hi> James Anderton,</item>
+                     <item>Lievt. Col. <hi>Cottingham,</hi>
+                     </item>
+                     <item>Capt. <hi>Ecceſton,</hi>
+                     </item>
+                     <item>Capt. <hi>Atherton.</hi>
+                     </item>
+                     <item>Capt. <hi>Butler.</hi>
+                     </item>
+                     <item>Capt. <hi>Brookes.</hi>
+                     </item>
+                     <item>Capt. <hi>Lea.</hi>
+                     </item>
+                     <item>M<hi rend="sup">r</hi>. <hi>Worthington,</hi> Eſquire.</item>
+                     <item>Abraham Laughton, <hi>Eſquire.</hi>
+                     </item>
+                     <item>
+                        <hi>John Sturbane,</hi> Gent. Lievt.</item>
+                     <item>Thomas Moſſoike <hi>Lievt.</hi>
+                     </item>
+                     <item>Walter Chamberlaine, <hi>Lievt.</hi>
+                     </item>
+                     <item>John De Hurſt, <hi>Lievt.</hi>
+                     </item>
+                     <item>John Morgrow, <hi>Lievt.</hi>
+                     </item>
+                     <item>Nathan Jones, <hi>Liev.</hi>
+                     </item>
+                     <item>
+                        <pb n="7" facs="tcp:112446:4"/>
+William Johnſon, <hi>Coronet.</hi>
+                     </item>
+                     <item>Edward Stauley, <hi>Coronet.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Wright,</hi> Gent. Coronet.</item>
+                     <item>Henry Gilibrand, <hi>Coronet.</hi>
+                     </item>
+                     <item>Peter Bland, <hi>Gent.</hi>
+                     </item>
+                     <item>William Scot, <hi>Gent.</hi>
+                     </item>
+                     <item>Th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mas Sherburn, <hi>Gent.</hi>
+                     </item>
+                     <item>
+                        <gap reason="blank" resp="#OXF" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> 
+                        <hi>Marſhall,</hi> Gent.</item>
+                     <item>Arthur Butler, <hi>Gent.</hi>
+                     </item>
+                     <item>James No<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>icon, <hi>Gent.</hi>
+                     </item>
+                     <item>Thomas Wotton, <hi>Gent.</hi>
+                     </item>
+                     <item>John Fox, <hi>Gent.</hi>
+                     </item>
+                     <item>John Fulme, <hi>Clerk.</hi>
+                     </item>
+                     <item>James Bould, <hi>Clerk.</hi>
+                     </item>
+                     <item>John Brown <hi>Quartermaſter.</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Jones,</hi> ſervant to M<hi rend="sup">r</hi>. <hi>Blunt.</hi>
+                     </item>
+                     <item>Will. Noricon, <hi>Quartermaſter.</hi>
+                     </item>
+                  </list>
+and about two hundred and fifty common ſouldiers.</p>
+            </div>
+            <div type="letter">
+               <head>Out of a Letter from Cheſhire.</head>
+               <p>THe ſtrength of this bloody Prince in his Horſe, is much abated: For at <hi>Welſhpoole</hi> there was taken by Sir <hi>Thomas Middleton,</hi> Colonell <hi>Mitton,</hi> with the aſſi<g ref="char:EOLhyphen"/>ſtance of <hi>Cheſhire</hi> Forces, three hundred fourty ſix hor<g ref="char:EOLhyphen"/>ſes of <hi>Ruperts</hi> own Regiment. And the ſame week was taken by Colonell <hi>Aſhton,</hi> at <hi>Holland</hi> in <hi>Lancaſhire,</hi> two hundred Horſe; and at <hi>Preſton</hi> in <hi>Lancaſhire</hi> about three<g ref="char:EOLhyphen"/>ſcore horſe: And at the laſt skirmiſh by the <hi>Lancaſhire</hi> Forces at <hi>Ormskirk</hi> in <hi>Lancaſhire,</hi> abovt nine hundred horſe, and by Sir <hi>William Brereton</hi> at <hi>Tarvin,</hi> three hun<g ref="char:EOLhyphen"/>dred horſe, which in all make up neere upon a thouſand eight hundred horſe, beſides priſoners.</p>
+               <p>THough ſome time be over-paſt, yet I cannot altoge<g ref="char:EOLhyphen"/>ther let ſleep in oblivion thoſe many noble actions of Colonell <hi>Fox,</hi> not yet in publick view: A little while ſince upon the diſcovery of the quartering of Worceſter Forces in Upton Warren, ſome twelve miles from his Garriſon, he went forth with a partie of horſe, and tooke in their quarters Captain <hi>Milward;</hi> one Lieutenant Co<g ref="char:EOLhyphen"/>lonell <hi>Dudley,</hi> as appeared by a commiſſion found in his pocket, Lieutenant <hi>Newbery,</hi> quartermaſter <hi>Dod,</hi> two Cor<g ref="char:EOLhyphen"/>porals, ten other Souldiers, and twenty horſe; with theſe he alſo brought a drove of beaſts from the Earl of <hi>Shrewſ<g ref="char:EOLhyphen"/>bury.</hi>
+                  <pb n="8" facs="tcp:112446:5"/>
+A little after he took Captain <hi>Knight</hi> in his quar<g ref="char:EOLhyphen"/>ters at Stoak, neer Bromſgrove.</p>
+               <p>The 16. of this Auguſt, upon intelligence that the Commiſſion of Array ſate in execution therof at Om<g ref="char:EOLhyphen"/>berſley four miles from Worceſter, and 17. from Egber<g ref="char:EOLhyphen"/>ſon garriſon, deſired my Lord of Denbies forces to joyn with him for their apprehenſion, which was accordingly attempted, where they took 40. priſoners, divers being men of note, 130 brave horſ, 150 beaſts, moſt of the Com<g ref="char:EOLhyphen"/>miſſioners very hardly eſcaped, which they had not done, but by reaſon of ſome delayes of thoſe that commanded the Earls forces, being buſied with ſome other deſignes neerer Worceſter, contrary to the Colonels direction and deſire, yet notwithſtanding by reaſon of the Colonel and his cubs purſuit after them over the river Severne, where they were inforced to ſwim, hee recovered divers excellent horſe and Armes, and returned with this prize in ſafety. In this expedition young Capt. <hi>Cotton</hi> behaved himſelf very valiantly. Upon the 20. of this moneth the Colonell having intelligence of ſome Cavaliers to lie in Bromſgrove, ſent forth a party of horſe under the com<g ref="char:EOLhyphen"/>mand of Capt. <hi>Tadman,</hi> and Capt. <hi>Johnſon,</hi> who ſurprized in that place, Capt. <hi>Barnſley</hi> and his ſouldiers, he being a Gentleman of quality, and a Worceſter Captain: This noble Colonels practice is ſuch, that no Cavalier is heard of in the countrey, but he brings him to his den: neither dare any enemy come out of Worceſter to oppoſe his proceedings, inſomuch that the greateſt malignants, and Papiſts ſeeek to make their peace with us, confeſſing their errors.</p>
+               <closer>
+                  <signed>N. N.</signed>
+               </closer>
+               <postscript>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Auguſt.</hi> 20. 1644.</date>
+                     </dateline>
+                  </opener>
+                  <p>From the weſt ſeverall letters expreſſe that the King with his whole Army, being farr greater then the Lord Generals, ſet upon the Lord Generals Armie on thurſday laſt <hi>Aug.</hi> 22. and were gallantly beaten backe with great loſſe, and that both Armies continued fighting by parties for ſeverall dayes, and that they ſo continued on Sabath<g ref="char:EOLhyphen"/>day laſt when the meſſenger came away.</p>
+               </postscript>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
